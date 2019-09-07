@@ -1,5 +1,5 @@
 {
-  "name": "js-modules-wtf",
+  "name": "js-modules-wtf-bundle-webpack",
   "version": "0.0.1",
   "private": false,
   "main": "build/bundle.min.js",
