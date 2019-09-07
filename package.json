@@ -2,7 +2,7 @@
   "name": "js-modules-wtf",
   "version": "0.0.1",
   "private": false,
-  "main": "build/bundle.minp.js",
+  "main": "build/bundle.min.js",
   "devDependencies": {
     "webpack": "^4.39.3",
     "webpack-cli": "^3.3.7"
